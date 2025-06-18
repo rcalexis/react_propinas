@@ -1,4 +1,6 @@
 # React + TypeScript + Vite
+SE TIENE QUE USAR EL MODO CLARO PARA QUE FUNCIONE CORRECTAMENTE, YA QUE PARA MODO OSCURO NO SE IMPLEMETO
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
